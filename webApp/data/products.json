@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Điện thoại iPhone 15 Pro Max",
+    "category": "Điện thoại",
+    "category_id": 1,
+    "price": 29990000,
+    "inStock": true,
+    "image": "https://imgur.com"
+  },
+  {
+    "id": 2,
+    "name": "Điện thoại iPhone 14 Pro",
+    "category": "Điện thoại",
+    "category_id": 1,
+    "price": 23490000,
+    "inStock": true,
+    "image": "https://imgur.com"
+  },
+  {
+    "id": 3,
+    "name": "Laptop MacBook Air M2",
+    "category": "Laptop",
+    "category_id": 2,
+    "price": 24500000,
+    "inStock": true,
+    "image": "https://imgur.com"
+  },
+  {
+    "id": 4,
+    "name": "Laptop MacBook Pro M3",
+    "category": "Laptop",
+    "category_id": 2,
+    "price": 39990000,
+    "inStock": false,
+    "image": "https://imgur.com"
+  },
+  {
+    "id": 5,
+    "name": "Máy tính bảng iPad Air 5 M1",
+    "category": "Tablet",
+    "category_id": 3,
+    "price": 14290000,
+    "inStock": true,
+    "image": "https://imgur.com"
+  },
+  {
+    "id": 6,
+    "name": "Máy tính bảng iPad Pro M2",
+    "category": "Tablet",
+    "category_id": 3,
+    "price": 21990000,
+    "inStock": true,
+    "image": "https://imgur.com"
+  }
+]
